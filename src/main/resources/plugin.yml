@@ -1,0 +1,5 @@
+name: KotlinPlugin
+version: '${project.version}'
+main: me.fivevl.kotlinplugin.Main
+api-version: 1.19
+authors: [ 5vl ]
